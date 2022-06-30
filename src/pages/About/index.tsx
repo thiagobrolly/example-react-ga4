@@ -10,7 +10,7 @@ export function About() {
       </Helmet>
       <S.Container>
         <h1>Sobre GA4</h1>
-        <Link to="/">Voltar</Link>
+        <Link id='btn-voltar-inicio' to="/">Voltar</Link>
       </S.Container>
     </>
   );

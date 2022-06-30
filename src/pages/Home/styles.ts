@@ -27,4 +27,12 @@ export const Container = styled.div`
       background: #0D5969;
     }
   }
+
+  #btn-click-sacar{
+    background: #e52e4d;
+
+    &:hover{
+      background: #c63b52;
+    }
+  }
 `;

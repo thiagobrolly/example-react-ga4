@@ -11,11 +11,11 @@ export function Home() {
       <S.Container>
         <h1>Home</h1>
         <div>
-          <button onClick={() => alert("Click One")} id="btn-test-one" type="button">
-            Click One
+          <button onClick={() => alert("Click Depositar")} id="btn-click-depositar" type="button">
+            Depositar
           </button>
-          <button onClick={() => alert("Click Two")} id="btn-test-two" type="button">
-            Click Two
+          <button onClick={() => alert("Click Sacar")} id="btn-click-sacar" type="button">
+            Sacar
           </button>
         </div>
       </S.Container>
